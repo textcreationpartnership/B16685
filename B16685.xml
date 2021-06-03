@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The adepts case, briefly shewing: I. What adepts are, and what they are said to perform. II. What reason there is, to think that there are adepts. III. What would invite them to appear, and be beneficial in a nation. IV. What arguments there are, for and against the taking of such measures.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16685</idno><idno type="EEBO-CITATION">99886191_195773</idno>
+  <idno type="VID">195773</idno>
+  <idno type="EEBO-PROQUEST">2248537129</idno>
+  
+            <idno type="STC">Wing A574</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[222]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.l.1.[19]</idno>
+            <idno type="STC">ESTC R225653</idno>
+            <idno type="PROQUEST">ocm99886191</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886191e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195773)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[220], E7:1[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The adepts case, briefly shewing: I. What adepts are, and what they are said to perform. II. What reason there is, to think that there are adepts. III. What would invite them to appear, and be beneficial in a nation. IV. What arguments there are, for and against the taking of such measures.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>With an advertisement at foot of verso</note>
+                  <note>Item at reel E7:1[15] imperfect: creased, affecting print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Alchemy --  England --  Early works to 1800.</term>
+               <term type="topical_term">Herbalists --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <pb facs="tcp:195773:1"/>
+            <head>The ADEPTS Case,</head>
+            <argument>
+               <p> BRIEFLY SHEWING:
+<list>
+                     <item n="1">I. What Adepts are, and what they are sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ato perform.</item>
+                     <item n="2">II. What Reason there is, to think that there<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re Adepts.</item>
+                     <item n="3">III. What would invite them to appear, and b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> beneficial in a Nation.</item>
+                     <item n="4">IV. What Arguments there are, for and again<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the taking of such Measures.</item>
+                  </list>
+               </p>
+            </argument>
+            <p n="1">I. ADepts (as it is reported) are Men extraordin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rily skill'd in the Secrets of Nature; having a Medecine that Cures Distempers easily and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peedily, that prevents Diseases, and prolongs Life: Moreover, knowing the Art to make G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld and Silver as good as any in the Mines, to improve barren Soils, and augment the Fruitfulness of any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>round, incomparably above all the Arts ordi<g ref="char:EOLhyphen"/>narily practised: Which skill they have attained unto by <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>vour of God, the long Study of Philoso<g ref="char:EOLhyphen"/>phy, and an indefatigable Labour and continual making o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Experiments, keeping themselves private by reason of the Snares laid against them, and to preserve the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>selves from the Violence and Oppression of Reprobates; and, in fine, holding their Art religiously Secret, lest it being known and abused by wicked Men, the Order and Tranquility of the World sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be thereby infinitely disturbed, and God therefore obliged suddenly to exterminate the greatest part of Human Race.</p>
+            <p n="2">II. Altho' Adepts are not publickly seen, or ordinarily known, there seems nevertheless to be several Reasons to think that there are such Men. First, There has been a long Tradition of it in the World, which were very strange if it never had a Foundation; and tho' this should not be taken for a full Proof, yet, joyned with others, undoubtedly it has some strength. This Tradition may perhaps be said to have been raised by Impostors; but there is scarce any Imposture without a reality which it lays claim to. Secondly, We see divers Writings extant, many of w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich bear the Names of Known and Learned Men, famous for this very Art; and these Books, who ev<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be their Authors, contain a great deal of Learning, and are very much agreable to Reason and Philo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phy, go upon Natural Principles, and have an exact agreement one with another, tho' Composed by d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferent Men, in different Countries, and in many different Languages. If there be such an Art, and i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the possessors of it would give a hint there<g ref="char:EOLhyphen"/>of to the Sons of Wisdom, that is, to Studious and Considering Persons and indefatigable Operators, better measures could never have been taken, than what w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> find in those Books, enigmatically to give Directions to the Wise and Deserving and those whose W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk God will think fit to bless, and at the same time to blind and misguide the Inconsiderate and Cove<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, and them that are unworthy of or un<g ref="char:EOLhyphen"/>fit for this Secret. Thirdly, There have been at several ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es some Demonstrations of this Art given to the World, which carry much Evidence, tho' they be not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egarded by, or known of the generality of Men. Several Wise and Learned Men, of known Vertue a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Integrity, some of them Persons of Qua<g ref="char:EOLhyphen"/>lity as well as Worth, have Published in <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Writings to which they have affixed their Names, that Adepts ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e given or sent them some of their Medicine, which themselves have made Tryal of, and found effectual. This prevents the objection of false Reports and deceitful Projections: It is not strange that if there be such an Art as that of the Adepts, it should often be pretended to by Impo<g ref="char:EOLhyphen"/>stors; but it were wonderful if Men of Reputation and Honour did all combine in a vain, unprofitable and abominable Lie. Besides, some extraordinary Cures, of Desperate Diseases, are recorded, by se<g ref="char:EOLhyphen"/>veral Authors that never pretended to be Adepts, to have been wrought by that Medicine almost sud<g ref="char:EOLhyphen"/>denly, in a day or two, so that the Patients, not only Bed-rid but in a manner given over, in that lit<g ref="char:EOLhyphen"/>tle time recovered both their Health, and their Strength and Vigour. For the reasonableness of this Art, I must refer to the Learned and excellent Dissertation of <hi>Gasto Claveus,</hi> rightly intituled <hi>Apologia Argyropoeiae &amp; Chrysopoeiae,</hi> which is the First Tractate of the Second Volum of the <hi>Latin</hi> Theater.</p>
+            <p n="3">III. All this surely warrants the Consideration of the Me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns expedient, and necessary, to invite Adepts to appear, and be beneficial in a Nation. To that end it is credible no more is requisite, than to make sufficient provision for their Protection and the assuring of their Liberty, and to allow 'em to make use of a certain quantity of their Gold and Silver for their Maintenance and other Occasions. For if there are any Adepts, they are Virtuous Men, who earnestly desire the happiness of Mankind, and are sincerely desirous to do good to the utmost of their Power: It would be also a great advantage to them to be able to appear with safety, whereas, as they themselves relate, they are forced to lye hid, being other<g ref="char:EOLhyphen"/>wise in perpetual danger. If then such an Act or the like, was made, whereby it were Enacted, That, (con<g ref="char:EOLhyphen"/>sidering that there has been of a long time a Rumour of there being such Men as Adepts, that, if there be, it is just to protect them; and that, however, it is fit to do something that may satisfy the Publick con<g ref="char:EOLhyphen"/>cerning this Matter, and demonstrate the reality or falshood of the said Rumour;) if any Adept or Adepts appear before a Court, Council, Committee or Commissioners named and appointed for that purpose, and declare his or their possessing the Art and Medicine of Adeptists, then, First, his Person or their Persons (as many as come) shall be Judged Sacred, they shall be protected in full Safety and entire Li<g ref="char:EOLhyphen"/>berty, and from that Moment allowed and provided with sufficient Attendants, to Guard their Persons (where ever they go) and their Houses both Night and Day, and Common Magistrates and Officers shall be directed and obliged to protect them. Secondly, That each Adept shall be allowed to get Minted, every year, at the Publick Mint, the worth of fifteen Thousand Pounds <hi>Sterling,</hi> of his Gold and Silver, for his Occasions. And Thirdly, That all Adepts, that are Strangers, shall be held <hi>ipso facto</hi> as Natu<g ref="char:EOLhyphen"/>ralized, and shall enjoy all the Priviledges of Natives; under these following Conditions on the Adept's parts. 1. That they shall be subject to the Laws of the Land. 2. That, in particular, their Gold and Silver shall sustain all usual Examens. 3. That they shall get Minted at the Publik Mint all the Gold and Silver that they shall dispose of. 4. That each Adept yearly shall have Minted and shall dispose of no more than the mentioned quantity, worth fifteen Thousand Pounds Sterling of Gold or Silver, with<g ref="char:EOLhyphen"/>out a special Act allowing of more. And, Lastly, That each Adept shall, for their Protection and other Favours of the Government, as aforesaid, Pay to such Receivers and for such Uses as shall be mention'd, yearly, the Sum of five Thousand Pounds Sterling, besides what, by other Acts, they shall be allowed to procure of their Gold or Silver for Publick Benefits, if they be consenting, If such an Act as this was made, it is probable it would be a sufficient invitation for them, if there be such Men, But,</p>
+            <p n="4">
+               <pb facs="tcp:195773:2"/>IV. And lastly, The Query is, Whether it w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld be rational to make <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch a Provision, and take such Measures, or not? The Arguments against it a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 1. That after all tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is said, It cannot be certainly determined that there is actually such an Art as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat pretended one of the Adeptists; (all the Proofs ur<g ref="char:EOLhyphen"/>ged for it not being infallible:) And that there <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re it would be unreasonable, in such an uncertainty, to pass the Sophic Act. The uncertainty of the Art is grounded chiefly on this experience, that multi<g ref="char:EOLhyphen"/>tudes search after it, and none are known to S<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ed. A 2d. Argument for the Negative is, That that Art is even scandalous; that all that have any th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to do with it, are despised by the rest of the World; that therefore it would expose the Honour of a Nation, to propose the aforesaid Act, nothing like it having ever been offered by any Government. The last Argument is, That that would hinder other bu<g ref="char:EOLhyphen"/>siness, and especially the making of surer P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sion. We must consider what may be answered to these Arguments, before we proceed to the Reasons <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Positive. To the First it may be said, That many Men Labour to find out this Art, without due qualifications; That even many good Men, for Reasons best known to God, fall short of it; That God seldom grants it to any but the Constant, the Persevering, the Indefatigable Artists. (One says he tri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the self same thing, the self same way, a Hundred times before it succeeded; if he had then ceased, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> had not been an Adept;) That in this Race many run and few get the Prize; That those that fail, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommonly discover themselves, and others more effectually study Secrecy, That tho' the Arguments urg'd in the Second General Article be not Infallible, yet they cannot but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confessed to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> consider<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, That if Infallibility was requisite, there would be no room for the Exercise of Virtue, and we could undertake nothing, That therefore the want of Infalli<g ref="char:EOLhyphen"/>bility is not a good ground to hinder Men f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om acting, but that 'tis reckoned the prudentest course to fix, in most Important Occurrences, where t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere is no Infallible Evidence. All Divines assert that tho' there were incomparably less proofs for Religion than there is, yet it would be the best, the wisest and safest course to be Religious. No Man, when he goes to sleep, is Infallibly assured that his House shall not then sink or burn; and yet he will <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot forsake it, and prefer to take his Repose under a Tent, or in the open Field. The Merchant that venures upon the Sea, is not sure his Ship shall escape the Rocks, or Sands, the Tempests, or Pirates. The Souldier is not sure of Victory, nor the Husbandman of his Harvest. Men of all ranks daily lay Wagers, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout being infallibly assured that they shall win; (it were not reckoned fair play if they were sure.) The Suitor makes Addresses, tho' he be not certain to obtain his Mistress. Innumerable the like Instances there are, so that there is some uncertainty in most undertak<g ref="char:EOLhyphen"/>ings in this Life: We do what we <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Part, but almost nothing can be done without venturing; it is an old and a common Proverb. Then, to act wisely in this Case, it is only to be considered, whether there be sufficient reason for the Venture, upon other accounts; Or, Whether some other Reasons are of more Weight to disswade it. We must the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proceed. To the Second Argument it may be answered, That that Art is Scandalous only upon the ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ount of the multitude of Impostors, who have pretended to it, so that those who medle with the Art are ordinarily look'd upon to be either Deceivers or Deceived, but there being visibly nothing of that natu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in this Case, it can never be thought Dishonorable to pro<g ref="char:EOLhyphen"/>pose or pass the abovesaid Act, that Act being certainly most proper to prevent all Impostures in this Matter for the Future. It was thought no Dishonor to encourage publickly the honest Studiers of the Art, and so to be some way concerned in it, in the time of <hi>Henry</hi> VI. <hi>Ex. Rot. Pat. An. 24. H. 6. par. 2. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14. Ex. Rot. Pat. An. 34. H. 6. m. 7. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er ipsum Regem, Autoritate Parliamen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i.</hi> This Nation was never despised. If any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rided it, they'd <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to weep. But <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght any undertaking to be stopp'd, (when there's otherwise reason for it,) only because it may be ridiculed by unreasonable People? To the last Argument the Answer is evident. This Act (tho' more concerning to the Publick, than many others that opportunity is found for in all Sessions) need not hinder other Business, nor especially other Provision requisite in the <hi>Interim,</hi> no more than if Adepts had never been heard of. It is good to have more Expedients than one; and the surer may be prosecuted, as if it was the only one, with all the vi<g ref="char:EOLhyphen"/>gour possible, yet without neglecting the other, when they are not inconsistent, which is here the Case.</p>
+            <p>Now, the Reasons for the Affirmative are these following: 1. Because the passing of the Sophic Act may prove of a very great Advantage. But, 2. Can be of no detriment. 3. It is a thing that has never been tried, and therefore may succeed for ought we know. 4. If it should actually prove that there are Adepts, we should be in a high measure accountable to God, for wronging the World of so great an Advantage, and them of their Liberty, if now we did nothing to be satisfy'd in the Matter, but still ne<g ref="char:EOLhyphen"/>glected this Ancient, this Universal, as spread over the whole World, and if we may not say, this Cre<g ref="char:EOLhyphen"/>dible, at least, this considerable Report, when it might be verified or confuted so easily. Lastly, If there should be no Adepts, yet we could not but be pleased to have done our part; and we should have this Satisfaction, to have at last freed the World from an old, mischievous Errour.</p>
+            <p>
+               <hi>The Conclusion.</hi> The reason for Publishing this <hi>Case,</hi> is not that the person that wrote it is absolutely certain of the reality of the Hermetick Art; for he neither is an Adept himself, nor is acquainted with any Adept, nor knows assuredly whether there be such Men. But, in Sum, If there are any, it were well they were encouraged, and enabled to appear and to make use of their Medicine for the benefit of a Nation: And, if there are none, it would be of very great use to give a Demonstration of it, to pre<g ref="char:EOLhyphen"/>vent the infinite troubles and expences of so many Men in the World, who render themselves and their Families Miserable in the Search of that which is not; for if the Art was real, it would, no doubt, be attained unto by some, and therefore if none possess it, it may be inferred that it is vain and altogether false, seeing how much it has every where been sought after. Now it is plain if no Adepts appear'd, when so sufficient and advantagious an Act were made in their favour; it would be an infallible Argu<g ref="char:EOLhyphen"/>ment that actually there are none, and that the stories concerning them are all Deceits and Impostures. To endeavour the manifest discovery of the Truth in this Matter, or to propose the means manifestly to discover it, (which evidently would be for the Interest of the Publick,) is the End of this <hi>Case.</hi> If there are any Adepts, they will then surely concur with these measures, and with this design.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THe Person that Publishes this Paper is the same that wrote the <hi>Essay concerning Adepts;</hi> and, being at present in Town, may be directed to at Mrs. <hi>Baldwin</hi> in <hi>Warwick-lane;</hi> the Direction given in an Advertisement in the <hi>Post-Man,</hi> the 5th. of <hi>October,</hi> 1700. having since been of no Use.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
